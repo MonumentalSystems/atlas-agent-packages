@@ -1,6 +1,6 @@
 # Atlas Agents
 
-Modular packages for building AI agent experiences with 3D avatars, chat, and speech. Extracted from [3dchat](https://github.com/DavinciDreams/3dchat) as standalone, composable npm packages.
+Modular packages for building AI agent experiences with 3D avatars, chat, and speech. Standalone, composable npm packages.
 
 ## Packages
 
